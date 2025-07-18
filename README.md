@@ -10,6 +10,15 @@ education:
     " IIE Higher Certificate in Mobile Applications and Web Development",
   ]
 
+Languages:
+  [
+    "Java",
+    "C#",
+    "HTML, CSS & JavaScript",
+    "Python",
+    "Typescript",
+    "SQL",
+  ]
 
 fields_of_interests:
   [
